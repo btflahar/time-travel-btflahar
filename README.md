@@ -1,1 +1,1 @@
-I am learning how to make a magazine (zine) inside a git repository using branches and such.
+There needs to be some sort of proof of time travel somewhere around here, otherwise this will be all for naught! What about that teleporter?
