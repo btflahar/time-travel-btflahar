@@ -1,0 +1,1 @@
+Please respect the rules regarding hate speech, personal security, and harassment. Any issues or complaints should be filed directly to the source code creator. Any violation of the rules or conduct will result in a ban or removal of access.
