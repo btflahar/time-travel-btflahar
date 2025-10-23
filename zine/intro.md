@@ -1,1 +1,2 @@
-I need to write a sentence that includes the phrase time machine. This time machine doesn't work anymore :(.
+Teleporter, schemloporter. What the heck am I gonna do out here, time travel?
+-Further Research done on Time Travel Theory and Portal Mechanics
