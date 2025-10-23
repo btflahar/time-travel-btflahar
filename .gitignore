@@ -1,0 +1,10 @@
+# Ignore environment files
+.env
+config.json
+
+#Ignore all node modules ( we wont need them at all)
+nodes_1
+nodes_2
+
+#Ignore all historically accurate time travel theories
+theory_1
